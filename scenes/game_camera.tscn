@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://d1cyhd0daye0d"]
+
+[ext_resource type="Script" path="res://scripts/game_camera.gd" id="1_25pai"]
+
+[node name="GameCamera" type="Camera2D"]
+position = Vector2(271, -2)
+script = ExtResource("1_25pai")
